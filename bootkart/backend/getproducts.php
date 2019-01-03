@@ -21,13 +21,13 @@ function getsingleproduct($id){
 
 function getproductsbycategory($category){
     include 'conn.php';
-    $1 = array();
+    $data = array();
     $sql = "SELECT * FROM products WHERE category='$category'";
     $result = $conn->query($sql);
     while($row = $result->fetch_assoc()){
-        array_push($data1,$row);
+        array_push($data,$row);
     }
-    return $data1;
+    return $data;
 }
 
 function getcart($id){
