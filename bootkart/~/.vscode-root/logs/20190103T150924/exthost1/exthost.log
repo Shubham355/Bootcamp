@@ -1,0 +1,24 @@
+[2019-01-03 15:09:25.904] [exthost] [info] extension host started
+[2019-01-03 15:09:25.926] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-01-03 15:09:25.927] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-01-03 15:09:25.935] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-01-03 15:09:25.935] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-01-03 15:09:25.990] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-01-03 15:09:25.990] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-01-03 15:09:26.158] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-01-03 15:09:26.158] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-01-03 15:09:26.166] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2019-01-03 15:09:26.166] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/dist/extension
+[2019-01-03 15:09:26.174] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-01-03 15:09:26.174] [exthost] [info] ExtensionService#loadCommonJSModule /home/shubham/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-01-03 15:09:26.175] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2019-01-03 15:09:26.175] [exthost] [info] ExtensionService#loadCommonJSModule /home/shubham/.vscode/extensions/hookyqr.beautify-1.4.7/extension
+[2019-01-03 15:09:26.241] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-01-03 15:09:26.241] [exthost] [info] ExtensionService#loadCommonJSModule /home/shubham/.vscode/extensions/ritwickdey.liveserver-5.3.1/out/src/extension
+[2019-01-03 15:09:26.695] [exthost] [info] eager extensions activated
+[2019-01-03 15:09:26.697] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"activationEvent":"onLanguage:php"}
+[2019-01-03 15:09:26.697] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2019-01-03 15:34:47.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-01-03 15:34:47.545] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-01-03 15:34:58.504] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-01-03 15:34:58.504] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension

@@ -1,0 +1,27 @@
+h1{
+    color: white;
+    font-size: 70 px;
+}
+
+.number-row{
+    margin-top: 35px;
+}
+
+#center{
+    font-size: 40px;
+}
+
+.number-left{
+    background-color:red;
+    padding: 110px;
+}
+
+.number-center{
+    background-color:yellow;
+    padding: 110px;
+}
+
+.number-right{
+    background-color:blue;
+    padding: 110px;
+}
